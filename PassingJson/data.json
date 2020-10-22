@@ -1,0 +1,29 @@
+[
+                {
+                    "title": "Vegetable",
+                    "items": [
+                        "Spinach",
+                        "Carrots",
+                        "Broccoli",
+                        "Garlic"
+                    ]
+                },
+                {
+                    "title": "Meat",
+                    "items": [
+                        "Red Meat",
+                        "Poultry",
+                        "Pork",
+                        "Seafood"
+                    ]
+                },
+                {
+                    "title": "Healthiest Types of Juice",
+                    "items": [
+                        "Cranberry",
+                        "Beet",
+                        "Apple",
+                        "Pomegranate"
+                    ]
+                }
+]
